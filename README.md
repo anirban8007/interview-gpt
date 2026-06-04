@@ -153,4 +153,4 @@ Feel free to use this template for your own projects!
 
 - Fonts by [Google Fonts](https://fonts.google.com)
 - Built with ❤️ using pure HTML, CSS & JavaScript
-- Enhanced with [Antigravity AI](https://antigravity.dev)
+  
