@@ -2,7 +2,7 @@
 
 > A stunning, fully-responsive landing page for **InterviewGPT** — an AI mock interview platform that helps candidates practice, improve, and land their dream jobs.
 
-![InterviewGPT Preview](assets/preview.png)
+![InterviewGPT Preview](interview-gpt-jade.vercel.app)
 
 ---
 
