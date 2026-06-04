@@ -2,13 +2,12 @@
 
 > A stunning, fully-responsive landing page for **InterviewGPT** — an AI mock interview platform that helps candidates practice, improve, and land their dream jobs.
 
-![InterviewGPT Preview](interview-gpt-jade.vercel.app)
 
 ---
 
 ## 🚀 Live Demo
 
-> Deploy via GitHub Pages — see [Deploy](#-deploy-to-github-pages) section below.
+🌍 **[https://interview-gpt-jade.vercel.app](https://interview-gpt-jade.vercel.app)**
 
 ---
 
@@ -88,15 +87,17 @@ npx serve .
 
 ---
 
-## 🌐 Deploy to GitHub Pages
+## 🌐 Deployment
 
+This project is deployed on **[Vercel](https://vercel.com)**.
+
+🌍 Live at: **[https://interview-gpt-jade.vercel.app](https://interview-gpt-jade.vercel.app)**
+
+To deploy your own fork:
 1. Push the repo to GitHub
-2. Go to **Settings → Pages**
-3. Set **Source** → `main` branch → `/ (root)`
-4. Click **Save** — your site will be live at:
-   ```
-   https://YOUR_USERNAME.github.io/interviewgpt-landing/
-   ```
+2. Import the project on [vercel.com](https://vercel.com)
+3. Vercel auto-detects the static site — click **Deploy**
+4. Your site will be live at your own Vercel URL
 
 ---
 
